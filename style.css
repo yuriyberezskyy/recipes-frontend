@@ -1,0 +1,27 @@
+#logo-id {
+    width: 10em;
+    height: 5em;
+
+}
+
+#all-dishes {
+     display:flex;
+}
+
+#one-dish-div{
+    margin: 10px;
+
+}
+
+#one-dish-div img{
+   width: 270px;
+   height: 200px;
+}
+
+#user-dishes{
+   display:flex;
+}
+
+#nav-main{
+    position: sticky;
+}
